@@ -1,1 +1,1 @@
-hello git!
+my first repository in git
